@@ -1,12 +1,16 @@
 ### Hi everybody, leave a star if u use my rep 👋
 
 
+<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "850px" height = "30px">
+
 <center>
       <div>
            <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=amunra2&theme=jolly&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
            <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amunra2&theme=jolly&count_private=true&hide=html&layout=compact" /> </td>
       </div>
 </center>
+
+<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "850px" height = "30px">
 
 
 <!--
