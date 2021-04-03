@@ -1,7 +1,7 @@
 ### Hi everybody, leave a star if u use my rep 👋
 
 
-<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "850px" height = "30px">
+<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
 
 <center>
       <div>
@@ -10,7 +10,7 @@
       </div>
 </center>
 
-<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "850px" height = "30px">
+<img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
 
 
 <!--
