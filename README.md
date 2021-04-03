@@ -10,7 +10,7 @@
       </div>
 </center>
 
-<br/><br/>
+<p></p>
 
 <img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
 
