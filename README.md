@@ -1,5 +1,5 @@
 ### Пригодилось? С тебя звезда 👋
-<img src="https://komarev.com/ghpvc/?username=amunra2&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=amunra2&style=flat-square&color=orange" alt=""/>
 
 
 <img src = "https://media.giphy.com/media/3ohhwl81JmAragMpUc/giphy.gif" width = "820px" height = "30px">
